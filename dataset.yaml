@@ -1,0 +1,5 @@
+train: C:/Users/Christian/Downloads/yolo_labels/images/train/
+val: C:/Users/Christian/Downloads/yolo_labels/images/val/
+
+nc: 1  # Number of object classes
+names: ["toy_car"]  # Change this to match your class
